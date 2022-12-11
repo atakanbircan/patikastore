@@ -1,5 +1,5 @@
 # patikastore
-
+![image](https://user-images.githubusercontent.com/57329064/206926974-5dc76dcd-9f80-4ff8-8fb9-fea8b5e929d4.png)
 
 
 
